@@ -1,0 +1,1 @@
+This bug demonstrates a common type error in TypeScript where a function expecting a string argument is provided with a string or null value.  The solution shows how to properly handle the null case to avoid the type error.  This is important to prevent unexpected behavior at runtime.
